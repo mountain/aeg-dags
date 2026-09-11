@@ -1,0 +1,8 @@
+digraph G {
+node [fontname="Helvetica"];
+n0 [label="*"];
+ref_1 [label="ref 1",shape=diamond,style=dashed];
+ref_69 [label="ref 69",shape=diamond,style=dashed];
+n0 -> ref_1;
+n0 -> ref_69;
+}

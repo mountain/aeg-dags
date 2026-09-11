@@ -1,0 +1,4 @@
+digraph G {
+node [fontname="Helvetica"];
+n0 [label="1",shape=box];
+}

@@ -1,0 +1,22 @@
+# environments (never committed)
+.venv/
+.pypy/
+venv/
+env/
+
+# caches and bytecode
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# IDE and OS
+.idea/
+.DS_Store
+
+# LaTeX intermediates (regenerable)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
